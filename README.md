@@ -4,7 +4,7 @@
 ## Exercício JavaScript
 
 - Sobre o Exercício:
-  - Exercício feito para validar se o usuário digita um número negativo ou não. Retornando VÁLIDO ou INVÁLIDO
+  - Exercício feito para validar se o usuário digita um número negativo ou não. Retornando VÁLIDO (se negativo) ou INVÁLIDO (se positivo)
 
 - Tecnologias utilizadas: <br>
   <ul>
